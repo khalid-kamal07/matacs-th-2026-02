@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "A",
+    "rank": 1,
+    "status": "ranked",
+    "score": 98.75,
+    "reason": "Passes the stated mandatory checks and has the strongest documented experience, a competitive price, a 12-week schedule, long warranties, and a complete team/safety/monitoring plan."
+  },
+  {
+    "proposal": "B",
+    "rank": null,
+    "status": "ineligible",
+    "score": null,
+    "reason": "The bidder's own Ontario electrical contractor licence is not confirmed; the proposal says a licensed subcontractor will be confirmed after award, which does not satisfy the stated mandatory requirement."
+  },
+  {
+    "proposal": "C",
+    "rank": 3,
+    "status": "ranked",
+    "score": 77.28,
+    "reason": "Passes the stated mandatory checks, but has the highest price among A, C, and E, the longest stated completion time, and less documented safety/monitoring detail; the date range for experience should be verified."
+  },
+  {
+    "proposal": "D",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "Mandatory items are stated, but completion time is not provided and is a weighted criterion; request a confirmed schedule and then score it consistently."
+  },
+  {
+    "proposal": "E",
+    "rank": 2,
+    "status": "ranked",
+    "score": 85.53,
+    "reason": "Passes the stated mandatory checks and provides a 13-week schedule, long warranties, a named lead, six-person crew, safety plan, and 24 months of monitoring; its experience and price score below A."
+  }
+]
